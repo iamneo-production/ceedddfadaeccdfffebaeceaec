@@ -1,6 +1,6 @@
 <html>
 <head>
-<title><b> cpu </b></title>
+<title><b> CPU </b></title>
 </head>
 <body>
 <p> 
@@ -10,3 +10,6 @@
 <h4>It carries out each instruction of the program in sequence,</h4>
 <h5>to perform the basic arithmetical,logical,and input/output operations of the system</h5>
 </p>
+</body>
+</html>
+
